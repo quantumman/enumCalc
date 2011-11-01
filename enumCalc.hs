@@ -1,3 +1,7 @@
+module EnumCalc ( repl
+                , runRepl
+                ) where
+
 import Control.Applicative
 import Control.Monad.IO.Class
 import Data.Attoparsec
